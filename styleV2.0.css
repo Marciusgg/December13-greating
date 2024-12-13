@@ -1,0 +1,31 @@
+body {
+  font-family: "Lobster Two", sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  padding: 20px;
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: green;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+button {
+  background-color: lightgreen;
+  border: 1px solid green;
+  border-radius: 2px;
+}
+
+#greeting {
+  margin-top: 20px;
+  font-size: 2rem;
+  color: #ff4500;
+}
